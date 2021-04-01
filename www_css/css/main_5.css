@@ -1,0 +1,14 @@
+body {
+  /* background-color: red;
+  color: #423189;
+  background-image: url('https://s2.best-wallpaper.net/wallpaper/1920x1200/1409/Cute-kittens-furry-flowers_1920x1200.jpg');
+  background-repeat: no-repeat;
+  background-position: top; */
+
+  color: #423189;
+  background: #FF0000 url('https://avatars.mds.yandex.net/get-zen_doc/22526/pub_5b4487b5569b5100aa02fcf7_5b449f5f5c584a00aad0842d/scale_1200')
+  no-repeat center center;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
